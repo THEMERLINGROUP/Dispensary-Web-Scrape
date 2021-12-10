@@ -1,0 +1,38 @@
+{"Dutchie": [
+    {
+        "knoji_score":4.1,
+        "Pro_1":"Greater brand recognition than MedMen",
+        "Pro_2":"Offers Apple Pay Support",
+        "Pro_3":"Offers in-store pickup",
+        "Con_1":"Does not offer free return policies",
+        "Con_2":"Does not offer gift card support",
+        "link":"https://knoji.com/compare/dutchie-vs-medmen/"
+    }
+],
+"MedMen":[
+    {
+        "knoji_score":4.2,
+        "Pro_1":"Offers more frequent discounts and promotions than Dutchie",
+        "Pro_2":"Offer free return policies",
+        "Pro_3":"Offers gift card support",
+        "Con_1":"Does not accept Apple Pay support",
+        "Con_2":"Does not offer in-store pickup",
+        "link":"https://knoji.com/compare/dutchie-vs-medmen/"
+    }
+],
+"Leafly":[
+    {
+        "knoji_score":4.1,
+        "Discounts":"Miltary",
+        "Discount_Code_Volume":8,
+        "link":"https://leafly.knoji.com/"
+    }
+],
+"IHeartJane":[
+    {
+        "knoji_score":4.1,
+        "Discounts":"Senior",
+        "link":"https://iheartjane.knoji.com/"
+    }
+]
+}
